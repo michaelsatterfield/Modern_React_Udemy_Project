@@ -4,7 +4,7 @@ import React from 'react'
 
 // create react components//
 const App = () => {
-    return <div>Hello World!</div>;
+    return <h1>Hello World!</h1>;
 };
 
 ReactDOM.render(
